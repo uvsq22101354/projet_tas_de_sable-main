@@ -3,7 +3,7 @@ MI200N - Projet : Tas de sable
 #########################################
 # groupe MI 4
 # Vincent BEAUVALLET
-# Marjorie ADAM
+# Marjorie
 # Levi
 # Kévin
 # https://github.com/uvsq-info/l1-python
